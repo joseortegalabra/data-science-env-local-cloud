@@ -1,0 +1,7 @@
+.venv
+.cache
+.git
+**/*.parquet
+**/*.ipynb
+**/*.xlsx
+**/*.csv

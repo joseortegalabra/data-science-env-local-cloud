@@ -1,0 +1,60 @@
+# Environments variables to hide
+.env
+**/.env
+*.env
+
+# pkl data and artifact models
+.pkl
+**/.pkl
+*.pkl
+
+# file with sensible information
+.xlsx
+**/.xlsx
+*.xlsx
+
+.csv
+**/.csv
+*.csv
+
+# files images
+.png
+**/.png
+*.png
+
+.html
+**/.html
+*.html
+
+# json files configuration
+.json
+**/.json
+*.json
+
+# credentials GCP
+application_default_credentials.json
+**/application_default_credentials.json
+*application_default_credentials.json
+
+
+# trash folder
+.Trash-0
+**/.Trash-0
+*.Trash-0
+
+
+# DS Store Mac file
+.DS_Store
+**/DS_Store
+*DS_Store
+
+
+# checkpoints
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# pycache
+__pycache__
+**/__pycache__
+*__pycache__
